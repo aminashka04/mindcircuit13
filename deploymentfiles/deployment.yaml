@@ -16,10 +16,32 @@ spec:
         app: mc-app
     spec:
       containers:
-      - name: mc-app
-            image: aminashka96/batch13:14
-        ports:
-        - containerPort: 8080
+        - name: mc-app
+          image: aminashka96/batch13:14
+          ports:
+            - containerPort: 8080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
